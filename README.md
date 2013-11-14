@@ -16,3 +16,6 @@ $ forage-indexer --help
     -e, --endpoint <endpoint>                    specify the forage endpoint,
 ```
 
+[![NPM](https://nodei.co/npm/forage-indexer.png?stars&downloads)](https://nodei.co/npm/forage-indexer/)
+
+[![NPM](https://nodei.co/npm-dl/forage-indexer.png)](https://nodei.co/npm/forage-indexer/)
