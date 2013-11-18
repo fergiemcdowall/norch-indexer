@@ -12,8 +12,9 @@ $ forage-indexer --help
 
     -h, --help                                   output usage information
     -V, --version                                output the version number
-    -d, --documentdirectory <documentdirectory>  specify the document directory, defaults to doc/
-    -e, --endpoint <endpoint>                    specify the forage endpoint,
+    -d, --documentdirectory <documentdirectory>  specify the document directory, defaults to crawl/doc/ (MUST END WITH SLASH /)
+    -e, --endpoint <endpoint>                    specify the forage endpoint
+    -f, --filteron <filteron>                    specify the fields to facet/filter on
 ```
 
 Push docs to forage by doing something similar to:
