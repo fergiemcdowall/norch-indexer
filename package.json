@@ -1,6 +1,6 @@
 {
   "name": "forage-indexer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Forage-indexer pushes documents into a forage.js search server",
   "main": "./lib/forage-indexer.js",
   "dependencies": {
