@@ -1,22 +1,22 @@
 {
-  "name": "forage-indexer",
+  "name": "norch-indexer",
   "version": "0.0.2",
-  "description": "Forage-indexer pushes documents into a forage.js search server",
-  "main": "./lib/forage-indexer.js",
+  "description": "Norch-indexer pushes documents into a norch.js search server",
+  "main": "./lib/norch-indexer.js",
   "dependencies": {
     "commander": "2.0.0",
     "request" : "2.27.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foragejs/forage-indexer.git"
+    "url": "https://github.com/norchjs/norch-indexer.git"
   },
   "keywords": [
     "indexer",
-    "forage"
+    "norch"
   ],
   "bin": {
-    "forage-indexer": "./bin/forage-indexer"
+    "norch-indexer": "./bin/norch-indexer"
   },
   "maintainers": [
     "fergiemcdowall <fergusmcdowall@gmail.com>"
