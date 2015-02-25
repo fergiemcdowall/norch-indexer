@@ -19,7 +19,7 @@ $ norch-indexer --help
 
 Push docs to norch by doing something similar to:
 
-`$ norch-indexer -d testdata/ -f places,topics,organisations`
+`$ norch-indexer -d testdata/ -e http://localhost:3030/indexer -f places,topics,organisations`
 
 [![NPM](https://nodei.co/npm/norch-indexer.png?stars&downloads)](https://nodei.co/npm/norch-indexer/)
 
